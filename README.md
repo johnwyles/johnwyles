@@ -1,5 +1,5 @@
 <a href="https://github.com/johnwyles">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwyles&layout=donut&langs_count=6&hide=html,css&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwyles&layout=donut&langs_count=5&hide=html,css&card_width=320" />
 </a>
 <a href="https://github.com/johnwyles">
   <picture>
