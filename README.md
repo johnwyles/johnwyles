@@ -3,8 +3,9 @@
 </div>
 
 <div id="badges">
-  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/John_Wyles_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="John Wyles on LinkedIn"/></a>
-  <a href="https://johnwyles.com/"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" /></a>
+  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/John_Wyles_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://johnwyles.com/"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" alt="johnwyles.com"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=blue&labelColor=white" alt="Mastodon"/></a>
 </div>
 https://img.shields.io/nostr-band/followers/:npub
 
