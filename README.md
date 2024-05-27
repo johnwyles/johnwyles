@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="John Wyles on LinkedIn"/></a>
+  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/John_Wyles_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="John Wyles on LinkedIn"/></a>
   <a href="https://johnwyles.com/"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" /></a>
 </div>
 https://img.shields.io/nostr-band/followers/:npub
