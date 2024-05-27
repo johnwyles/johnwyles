@@ -1,6 +1,6 @@
 ## README.md
 
-![John Wyles' GitHub stats](https://github-readme-stats.vercel.app/api?username=johnwyles&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![John Wyles' GitHub stats](https://github-readme-stats.vercel.app/api?username=johnwyles&show_icons=true&theme=tokyonight&hide=grade) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
