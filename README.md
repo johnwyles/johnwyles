@@ -15,4 +15,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwyles&layout=donut&langs_count=5&hide=html,css" />
 </a>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HygonPPJC3oAxrLPrZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/green-code-laptop-HygonPPJC3oAxrLPrZ">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/HygonPPJC3oAxrLPrZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/green-code-laptop-HygonPPJC3oAxrLPrZ">via GIPHY</a></p>
