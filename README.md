@@ -27,3 +27,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwyles&layout=donut&langs_count=5&hide=html,css" />
   </a>
 </div>
+
+<div id="visit-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red" alt=""/>
+</div>
