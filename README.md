@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj8zxwk2v5-MLqu1kFdHjIUu5n7ptqOTUolDOlj7eq_FnHmhoOGSuEonF9Qx-yMlWJBcgCoDDEVOfBjU6_bnUCPyg4DJxgyOX8Id17KtkSeURWm_emworCFXvNnIgUdrCe5cr4sslV0ogI7Tbzqt6ad-FZRVmLqdpghD3QRNz-PcyczwHekrF5GdRyM" width="100"/>
+  <img src="https://global.discourse-cdn.com/spiceworks/original/4X/1/c/c/1cc76761c9b6c74eb0e770f8f7bfd9347c9aa4f3.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
