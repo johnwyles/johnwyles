@@ -48,7 +48,7 @@
 ## Technology Logo Vomit 🤮
 
 <div id="tech-logo-vomit">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" align="left" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=7&unique=true&width=300" alt="Spotify recently played" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
