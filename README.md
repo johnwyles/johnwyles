@@ -44,11 +44,9 @@
 
 <!-- <img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" /> -->
 
-<br clear="both" />
-
 ## Tech Logo Vomit 🤮
 
-<div id="logo-vomit">
+<div id="tech-logo-vomit">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" align="left" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
