@@ -30,6 +30,7 @@
   <a href="https://johnwyles.com"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" alt="johnwyles.com" /></a>
   <a href="https://mastodon.social/@johnwyles"><img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=blue&labelColor=white" alt="Mastodon" /></a>
   <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-purple?style=for-the-badge&label=nostr&labelColor=white&color=purple" /></a>
+  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt=""/>
 </div>
 
 <br clear="both" />
@@ -44,14 +45,6 @@
 <br clear="both" />
 
 <!-- <img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" /> -->
-
-<br clear="both" />
-
-<div id="visit-counter" align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt=""/>
-  </p>
-</div>
 
 <br clear="both" />
 
