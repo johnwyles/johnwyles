@@ -42,8 +42,6 @@
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwyles&radius=16&theme=tokyo-night&area=true&order=5" height="150" alt="activity-graph graph" /> -->
 </div>
 
-<br clear="both" />
-
 <!-- <img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" /> -->
 
 <br clear="both" />
