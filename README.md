@@ -30,7 +30,7 @@
   <a href="https://johnwyles.com"><img src="https://img.shields.io/badge/johnwyles.com-grey?style=for-the-badge&logo=hugo&logoColor=grey&labelColor=green" alt="johnwyles.com" /></a>
   <a href="https://mastodon.social/@johnwyles"><img src="https://img.shields.io/badge/Mastodon-grey?style=for-the-badge&logo=mastodon&logoColor=grey&labelColor=blue" alt="Mastodon" /></a>
   <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-grey?style=for-the-badge&label=nostr&labelColor=purple&color=grey" /></a>  
-  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br clear="both" />
@@ -44,7 +44,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" /> -->
 
-## Tech Logo Vomit 🤮
+## Technology Logo Vomit 🤮
 
 <div id="tech-logo-vomit">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" align="left" />
@@ -156,9 +156,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" height="40" alt="rubymine logo"  />
   <img width="12" />
