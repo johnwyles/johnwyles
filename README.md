@@ -55,14 +55,14 @@
 
 <br clear="both" />
 
-<div id="miscellaneous" style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;">
-  <div id="spotify" style="flex: 1; margin-right: 20px;">
+<div id="miscellaneous" display="grid" grid-template-columns="1fr 1fr" grid-gap="20px">
+  <div id="spotify">
     <a href="https://open.spotify.com/user/johnwyles" float="left">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" />
     </a>
   </div>
   
-  <div id="technology-vomit" style="flex: 1">
+  <div id="technology-vomit">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
