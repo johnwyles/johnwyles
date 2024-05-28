@@ -29,5 +29,5 @@
 </div>
 
 <div id="visit-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt=""/>
 </div>
