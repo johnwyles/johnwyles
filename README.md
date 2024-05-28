@@ -55,11 +55,6 @@
 
 <br clear="both" />
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" align="left" width="200px"/>
-some text floating around the image
-
-<br clear="left"/>
-
 ## Tech Logo Vomit 🤮
 
 <div id="logo-vomit">
