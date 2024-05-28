@@ -20,7 +20,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://github.com/johnwyles/johnwyles/blob/main/assets/hacking.gif?raw=true" float="left" height="300" />
+  <img src="https://github.com/johnwyles/johnwyles/blob/main/assets/hacking.gif?raw=true" float="left" />
   <img src="https://github.com/johnwyles/johnwyles/blob/main/assets/johnwyles-com-qr.png?raw=true" height="20%" width="20%" />
 </div>
 
