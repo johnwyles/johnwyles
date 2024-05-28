@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white" alt="LinkedIn"/></a>
-  <a href="https://johnwyles.com/"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" alt="johnwyles.com"/></a>
+  <a href="https://linkedin.com/in/johnwyles"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white" alt="LinkedIn"/></a>
+  <a href="https://johnwyles.com"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" alt="johnwyles.com"/></a>
   <a href="https://mastodon.social/@johnwyles"><img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=blue&labelColor=white" alt="Mastodon"/></a>
   <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-purple?style=for-the-badge&label=nostr&labelColor=white&color=purple"/></a>
 </div>
@@ -29,5 +29,10 @@
 </div>
 
 <div id="visit-counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt=""/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=johnwyles&style=flat-square&color=red&style=for-the-badge" alt=""/>
+  </p>
 </div>
+
+---
+### :man_technologist: About:
