@@ -21,6 +21,7 @@
 
 <div id="header" align="center">
   <img height="300" src="https://github.com/johnwyles/johnwyles/blob/main/assets/hacking.gif?raw=true" />
+  <img height="300" src="https://github.com/johnwyles/johnwyles/blob/main/assets/johnwyles-com-qr.png?raw=true" />
 </div>
 
 <br clear="both"/>
@@ -194,3 +195,8 @@
 
 ---
 ### :man_technologist: About:
+
+<!--
+- Like most everyone on finding their way to GitHub (Member Since 2006 :tm:) I am a self-described technophile and transhumanist :man: :robot:, with a keen interest in embedded systems , automation (including home automation, CI/CD, GitOps, IaC, and Cloud Native technologies), artificial intelligence, biohacking, security :lock:, and various forms of data hoarding (such as quantified self, media, large language models, genomics, etc.).
+- I have a deep appreciation for science fiction, regardless of its quality, and consume it extensively through both film and literature. I consider myself a "general audiophile," not in the traditional sense of sound consumption, but in the exploration and manipulation of sound. Creating music and producing a final piece brings me immense joy, comparable to the satisfaction of experimenting with sound synthesis for extended periods. Despite my passion for these indoor activities, I have a strong affinity for the outdoors and frequently engage in various activities. While I particularly enjoy spending time at the beach, I also relish visiting parks, hiking in new locations, and participating in a variety of recreational activities such as jogging, cycling, longboarding, surfing, disc golf, slacklining, and flying kites.
+-->
