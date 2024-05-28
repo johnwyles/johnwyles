@@ -26,7 +26,7 @@
 <br clear="both"/>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/johnwyles"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/johnwyles"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=grey&labelColor=blue&color=grey" alt="LinkedIn" /></a>
   <a href="https://johnwyles.com"><img src="https://img.shields.io/badge/johnwyles.com-white?style=for-the-badge&logo=hugo&logoColor=white&labelColor=green" alt="johnwyles.com" /></a>
   <a href="https://mastodon.social/@johnwyles"><img src="https://img.shields.io/badge/Mastodon-white?style=for-the-badge&logo=mastodon&logoColor=white&labelColor=blue" alt="Mastodon" /></a>
   <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-white?style=for-the-badge&label=nostr&labelColor=purple&color=white" /></a>  
