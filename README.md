@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://global.discourse-cdn.com/spiceworks/original/4X/1/c/c/1cc76761c9b6c74eb0e770f8f7bfd9347c9aa4f3.gif"/>
+  <img src="https://github.com/johnwyles/johnwyles/blob/main/assets/hacking.gif?raw=true"/>
 </div>
 
 <div id="badges" align="center">
