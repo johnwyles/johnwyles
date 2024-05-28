@@ -43,7 +43,7 @@
 
 <br clear="both" />
 
-<img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" /> -->
 
 <br clear="both" />
 
@@ -55,7 +55,9 @@
 
 <br clear="both" />
 
-<div align="left">
+## Technology Logo Vomit :vomiting_face:
+
+<div id="technology-vomit" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
