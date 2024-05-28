@@ -34,25 +34,35 @@
   <img height="300" src="https://github.com/johnwyles/johnwyles/blob/main/assets/hacking.gif?raw=true"  />
 </div>
 
+<br clear="both"/>
+
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/johnwyles"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white" alt="LinkedIn"/></a>
+  <a href="https://johnwyles.com"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" alt="johnwyles.com"/></a>
+  <a href="https://mastodon.social/@johnwyles"><img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=blue&labelColor=white" alt="Mastodon"/></a>
+  <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-purple?style=for-the-badge&label=nostr&labelColor=white&color=purple"/></a>
+</div>
+
+<br clear="both"/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=johnwyles&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnwyles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnwyles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&&hide=html,css&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=johnwyles&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnwyles&radius=16&theme=tokyo-night&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
-<br clear="both">
+<br clear="both"/>
 
 <img src="https://raw.githubusercontent.com/johnwyles/johnwyles/assets/snake.svg" alt="Snake animation" />
 
-<div align="center">
+<div align="center"/>
   <a href="https://open.spotify.com/user/johnwyles">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-<br clear="both">
-
+<br clear="both"/>
 
 <div id="visit-counter" align="center">
   <p>
@@ -60,7 +70,7 @@
   </p>
 </div>
 
-<br clear="both">
+<br clear="both"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
