@@ -9,19 +9,21 @@
   <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-white?style=for-the-badge&logo=nostr&logoColor=purple&label=nostr&labelColor=purple"/></a>
 </div>
 
-<a href="https://github.com/johnwyles">
-    <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=johnwyles&show_icons=true&hide_rank=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=johnwyles&hide_rank=true&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnwyles&hide_rank=true&show_icons=true&theme=dark" />
-  </picture>
-</a>
-<a href="https://github.com/johnwyles">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwyles&layout=donut&langs_count=5&hide=html,css" />
-</a>
+<div id="github-stats" align="center">
+  <a href="https://github.com/johnwyles">
+      <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=johnwyles&show_icons=true&hide_rank=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=johnwyles&hide_rank=true&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johnwyles&hide_rank=true&show_icons=true&theme=dark" />
+    </picture>
+  </a>
+  <a href="https://github.com/johnwyles">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnwyles&layout=donut&langs_count=5&hide=html,css" />
+  </a>
+</div>
