@@ -21,7 +21,7 @@
 
 <div id="header" align="center">
   <img height="300" src="https://github.com/johnwyles/johnwyles/blob/main/assets/hacking.gif?raw=true" />
-  <img height="300" src="https://github.com/johnwyles/johnwyles/blob/main/assets/johnwyles-com-qr.png?raw=true" />
+  <img height="300" src="https://github.com/johnwyles/johnwyles/blob/main/assets/johnwyles-com-qr.png?raw=true" width="25%" />
 </div>
 
 <br clear="both"/>
