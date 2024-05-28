@@ -55,6 +55,12 @@
 
 <br clear="both" />
 
+<div id="spotify" float="left">
+  <a href="https://open.spotify.com/user/johnwyles" float="left">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" />
+  </a>
+</div>
+
 <div id="technology-vomit">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -195,9 +201,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <a href="https://open.spotify.com/user/johnwyles" float="left">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" />
-  </a>
 </div>
 
 <br clear="both" />
