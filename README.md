@@ -55,8 +55,15 @@
 
 <br clear="both" />
 
-<div id="miscellaneous" display="grid" grid-template-columns="1fr 1fr" grid-gap="20px">
-  <div id="spotify">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" align="left" width="200px"/>
+some text floating around the image
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
+<div id="miscellaneous">
+  <div id="spotify" align="left">
     <a href="https://open.spotify.com/user/johnwyles" float="left">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=johnwyles&count=5&unique=true&width=300" alt="Spotify recently played" />
     </a>
