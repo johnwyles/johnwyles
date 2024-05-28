@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/John_Wyles_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/johnwyles/"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/></a>
   <a href="https://johnwyles.com/"><img src="https://img.shields.io/badge/johnwyles.com-green?style=for-the-badge&logo=hugo&logoColor=green&labelColor=white" alt="johnwyles.com"/></a>
   <a href="https://mastodon.social/@johnwyles"><img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=blue&labelColor=white" alt="Mastodon"/></a>
   <a href=""><img src="https://img.shields.io/badge/j0hnwyl3s-white?style=for-the-badge&logo=nostr&logoColor=purple&label=nostr&labelColor=purple"/></a>
